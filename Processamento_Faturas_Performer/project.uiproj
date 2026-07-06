@@ -1,0 +1,6 @@
+{
+  "Name": "Processamento_Faturas_Performer",
+  "ProjectType": "Process",
+  "Description": "Robô Performer com Document Understanding e Action Center para extração de Faturas.",
+  "MainFile": "Main.xaml"
+}

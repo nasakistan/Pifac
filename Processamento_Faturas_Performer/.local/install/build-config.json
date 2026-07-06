@@ -1,0 +1,15 @@
+{
+  "Version": "1.0",
+  "IncludeWorkflows": [
+    "Main.xaml",
+    "Framework/GetTransactionData.xaml",
+    "Framework/Process.xaml",
+    "Framework/SetTransactionStatus.xaml",
+    "Framework/CloseAllApplications.xaml",
+    "Framework/KillAllProcesses.xaml",
+    "Framework/InitAllSettings.xaml",
+    "Framework/InitAllApplications.xaml",
+    "Framework/TakeScreenshot.xaml",
+    "Framework/RetryCurrentTransaction.xaml"
+  ]
+}
